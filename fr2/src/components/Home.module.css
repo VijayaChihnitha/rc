@@ -1,0 +1,24 @@
+.bg{
+    background-image: url("./pic1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-position: center;
+
+}
+.bg{
+    background-image: url("./pic2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-position: center;
+
+}
+.tri{
+    background-color: red;
+}
+.jk{
+    font-size: 30px;
+    color:wheat;
+    text-shadow: 2px 2px 2px black;
+}

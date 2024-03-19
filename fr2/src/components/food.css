@@ -1,0 +1,51 @@
+.manu{
+    height:100px,
+
+}
+#a1{
+    margin-left:50px;
+}
+.jk{
+    height: 400px;
+    width:200px;
+
+}
+.j1{
+    height: 400px;
+    width:200px;
+    
+}
+.responsive {
+    max-width: 100%;
+    height: auto;
+    float:right;
+    
+  }
+#k1{
+    font-size: 80px;
+    font-style: italic;
+}
+.kittu{
+    font-size: 60px;
+    font-style: italic;
+    text-shadow: 2px 2px red;
+}
+
+.jk3{
+   background-color: red;
+   border-radius: 5px;
+   padding:5px 5px 5px 4px;
+   font-size: 40px;
+   font-style: italic;
+}
+.jk2{
+    font-size: 30px;
+}
+.jk5{
+    font-size: 60px;
+    color: aqua;
+    
+}
+.jk{
+    box-shadow: 5px 5px grey;
+}
